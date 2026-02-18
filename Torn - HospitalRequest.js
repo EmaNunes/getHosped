@@ -8,6 +8,7 @@
 // @connect      discord.com
 // @run-at       document-end
 // ==/UserScript==
+//
 
 (function () {
   'use strict';
