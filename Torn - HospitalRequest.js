@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Torn - Pedido de Hospitalização (Discord)
 // @namespace    https://torn.com/
-// @version      2.2.0
+// @version      2.2.1
 // @description  Botão no bloco Information: pergunta 1x por Nome+XID, depois é só clicar. Shift+Click para alterar. Cache renova +1 mês.
 // @match        https://www.torn.com/*
 // @grant        GM_xmlhttpRequest
