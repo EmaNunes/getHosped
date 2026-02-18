@@ -12,7 +12,7 @@
 (function () {
   'use strict';
 
-  const DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1473685827249901643/EZzoEJq7k2LzoW2FMkqX7AM8dRE0ZWz432f3HycB82uAagknwmj3KHEMAZhcRVyXO7D8';
+  const DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1473741022352904246/6P8JHKL-qUV82uuyZUn8zP2SP2wrwj4UJQPtCH7g_uFpLmRCX2qhF9ZSeSGMlXDxdGrD';
   const BTN_ID = 'tt-hosp-request-btn';
 
   const LS_NAME_KEY  = 'tt_hosp_target_name';
